@@ -53,9 +53,9 @@
     }
   },
   "devDependencies": {
-    "tsup": "^8.5.0",
-    "typescript": "^5",
-    "viem": "2.57.19",
+    "tsup": "^9.0.0",
+    "typescript": "^7",
+    "viem": "2.58.4",
     "vitest": "^5"
   },
   "repository": {
